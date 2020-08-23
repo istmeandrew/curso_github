@@ -1,9 +1,12 @@
-hola soy yasen
+Vamos a comenzar desde cero.
 
-y estoy programando
+Mis metas para este proyecto son:
 
-ahora estoy en git modificando
-
-y no se que mas escribir.
-
-ahora estoy creando mi pagina web 
+Vamos a crear una pagina web para la empresa de papá
+La pagina web tendra fotos con los containers
+Un area en donde realizaran las consultas
+Un area donde estara el inicio el cual tendra una introduccion,
+con la historia de la empresa
+con un menu le permitira al usuario viajar desde el inicio,
+a la zona de containers y abra una parte en el menu, que te redirigira
+a la pagina web de la casa que se arrienda.
