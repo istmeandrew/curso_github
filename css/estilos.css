@@ -13,17 +13,34 @@ body
     background:#33A;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
-    font-weight: bolf;
+    font-weight: bold;
     margin: 0;
-    padding; 0.5em;
+    padding: 10px 10px 10px 20px;
     font-size: 24px;
     text-align: left;
+    font-family: 'source sans pro regular';
 }
-
+#post
+{
+    padding: 20px;
+    text-align: left;
+}
+#post h1
+{
+    font-family: 'fjalla-one';
+}
+#post p
+{
+    font-family: 'source sans pro regular';
+}
+#post a
+{
+    text-decoration: none;
+}
 #container
 {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: center;
     border: 1px solid #ddd;
     margin: 0 auto;
