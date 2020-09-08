@@ -50,3 +50,10 @@ body
 {
     font-size: 20px;
 }
+#footer
+{
+    text-align: center;
+    background-color: gray;
+    color: white;
+    font-family: 'source sans pro regular';
+}
